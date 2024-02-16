@@ -111,5 +111,3 @@ Utilizando algoritmo de clusterização (KMeans) tendo os dados acima como maté
 #### Conclusão
 
 Estas visualizações acima nos mostram somente a ponta do iceberg, um cenário positivo em contraste temos negativo, sendo estes frutos de fatores mais preponderantes um grupo que noutro e isto pode ser observado de forma mais explicita quando analisamos de forma micro cada um, ao ser ter essa visão será possível estudar cada um e elaborar ações para cada de forma personalizada, aumentando a eficácia e eficiência das tratativas, assim com a utilização do modelo para classificação dos alunos baseado em dados podemos fornecer uma melhor experiência ao um aluno assim consequentemente poderemos observar melhora em números ao nível de desempenho, de mais forma saudável e empática, o ambiente como todo será progressivamente mais saudável.
-
-
