@@ -96,7 +96,7 @@ Utilizando algoritmo de clusterização (KMeans) tendo os dados acima como maté
 
 
 
-![newplot](C:\Users\migue\Downloads\newplot.png)
+![loading-ag-211](./static/img/Plot%201.png)
 
 
 
@@ -104,7 +104,7 @@ Utilizando algoritmo de clusterização (KMeans) tendo os dados acima como maté
 
 
 
-![newplot (1)](C:\Users\migue\Downloads\newplot%20(1).png)
+![gráfico de barras baseado no nível de performance de cada grupo.erfor](./static/img/Plot%202.png)
 
 
 
