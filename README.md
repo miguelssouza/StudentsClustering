@@ -1,6 +1,6 @@
 
 
-<img title="" src="file:///E:/Python/Analise%20de%20Dados/Analise%20de%20Dados/Students/static/img/STUDENTS.gif" alt="STUDENTS" style="zoom:67%;" data-align="center">
+<img title="" src="./static/img/STUDENTS.gif" alt="STUDENTS" style="zoom:67%;" data-align="center">
 
 # Student Health
 
